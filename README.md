@@ -10,7 +10,7 @@ Este projeto transforma o Raspberry Pi Pico W em um **ponto de acesso (Access Po
 - Controlar um LED físico conectado ao GPIO 13 (ligar/desligar)
 -  Visualizar a temperatura interna do microcontrolador RP2040
 
-### ✨ **Funcionalidades Principais**
+### **Funcionalidades Principais**
 | Funcionalidade | Descrição |
 |---------------|-----------|
 | **📶 Ponto de Acesso Wi-Fi** | Cria rede `PicoW_Info` (Senha: `picopass`) |
@@ -55,7 +55,7 @@ Este projeto transforma o Raspberry Pi Pico W em um **ponto de acesso (Access Po
    - ✅ LED (ligar/desligar)
    - 🌡️ Temperatura atual
 
-### 🐛 **Depuração**
+### **Depuração**
 1. 🔌 Conecte via USB
 2. 📟 Monitor serial (115200 bps)
 3. 📝 Verifique logs sincronizados
