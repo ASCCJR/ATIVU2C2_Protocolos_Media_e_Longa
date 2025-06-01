@@ -2,7 +2,7 @@
 
 ---
 
-## 📌 **Projeto**: Ponto de Acesso Wi-Fi com Controle de LED, Sensor de Temperatura e Logs Sincronizados no Raspberry Pi Pico W
+## **Projeto**: Ponto de Acesso Wi-Fi com Controle de LED, Sensor de Temperatura e Logs Sincronizados no Raspberry Pi Pico W
 
 ### **Visão Geral**
 Este projeto transforma o Raspberry Pi Pico W em um **ponto de acesso (Access Point) Wi-Fi**. Uma vez conectado à rede Wi-Fi criada pelo Pico W, os usuários podem:
